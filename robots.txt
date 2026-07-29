@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tanqiuyy.github.io/wangyebanyaa/sitemap.xml
